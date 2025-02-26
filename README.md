@@ -53,4 +53,4 @@ npm run dev
 O frontend estará disponível em http://localhost:3000 (ou outra porta configurada).
 
 # Considerações finais
-Apesar dos desafios enfrentados, o projeto está no caminho certo, com a parte de match finalizada e funcionando como esperado. Embora o uso do Tailwind 4 e do Shadcn tenha trazido algumas dificuldades, a experiência foi valiosa, e a interface está bem alinhada com as expectativas.
+Apesar dos desafios enfrentados, o projeto está no caminho certo, com a parte de match finalizada e funcionando como esperado. Ainda que não seja posts como solicitado no projeto, mas achei valido por ter uma aplicação similar ao que foi pedido. Embora o uso do Tailwind 4 e do Shadcn tenha trazido algumas dificuldades, a experiência foi valiosa, e a interface está bem alinhada com as expectativas. O que faria de diferente na próxima oportunidade seria componentizar ainda mais, e estilizar, além de realizar commit's a cada mudança o que acabei não fazendo, assim como os testes que  também faltaram. 
